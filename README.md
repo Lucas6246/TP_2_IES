@@ -5,3 +5,5 @@ Lucas Eberhardt: Lucas6246
 Santiago Eberhardt: santeee-1
 Santiago Zuazquita: SantiZuazquita
 Descripcion: Hola profe, vamos a aprender una banda.
+
+Esta modificacion la hizo lucas (blei blei)
