@@ -1,0 +1,5 @@
+Documentación del proyecto
+
+El proyecto se desarrolla utilizando Git y GitHub.
+Cada integrante trabaja sobre una rama independiente
+para evitar modificar directamente la rama master.
