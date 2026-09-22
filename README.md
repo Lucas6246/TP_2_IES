@@ -18,3 +18,9 @@ Descripcion: Hola profe, vamos a aprender una banda.
 Cada integrante trabaja sobre una rama propia. 
 Los cambios realizados se registran mediante commits y posteriormente
 se integran al proyecto principal mediante Pull Requests.
+
+## Tecnologías utilizadas
+
+- Git
+- GitHub
+- Markdown
